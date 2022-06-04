@@ -4,7 +4,7 @@
     "description": "A dark and muted theme",
     "publisher": "EugeneGhanizadehKhoub",
     "version": "1.0.0",
-    "icon": "./dark-mute-icon.png",
+    "icon": "dark-mute-icon.png",
     "repository": {
         "type": "https",
         "url": "https://github.com/loreanvictor/vscode-darkmute-theme"
