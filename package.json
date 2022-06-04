@@ -3,10 +3,11 @@
     "displayName": "dark-mute",
     "description": "A dark and muted theme",
     "publisher": "EugeneGhanizadehKhoub",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "icon": "./dark-mute-icon.png",
     "repository": {
-        "type": "git",
-        "url": "git+https://github.com/loreanvictor/vscode-darkmute-theme.git"
+        "type": "https",
+        "url": "https://github.com/loreanvictor/vscode-darkmute-theme"
     },
     "author": "Eugene Ghanizadeh Khoub",
     "engines": {
