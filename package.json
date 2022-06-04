@@ -1,0 +1,26 @@
+{
+    "name": "dark-mute",
+    "displayName": "dark-mute",
+    "description": "A dark and muted theme",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/loreanvictor/vscode-darkmute-theme.git"
+    },
+    "author": "Eugene Ghanizadeh Khoub",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dark-mute",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-mute-color-theme.json"
+            }
+        ]
+    }
+}
